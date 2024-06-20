@@ -97,7 +97,7 @@ s1.addPoint({
 });
 
 s2.addPoint({
-    position: new THREE.Vector3(1, 8.5, 0),
+    position: new THREE.Vector3(18.222637300451076, -5.325561239149551, -11.405184246674265),
     name: 'Sortie',
     scene: s1
 });
